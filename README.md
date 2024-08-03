@@ -32,7 +32,7 @@ This project scrapes product data from the Nespresso website, specifically targe
 Run the scraper script:
 
 ```bash
-node pupeeteer.js
+node puppeteer.js
 ```
 
 This will launch Puppeteer, navigate through the Nespresso website, scrape the product data, and save it to a file named `products.json`.
